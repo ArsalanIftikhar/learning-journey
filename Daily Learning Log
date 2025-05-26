@@ -1,0 +1,40 @@
+Daily Learning Log - Day 1
+Date: 26/05/25
+What I Learned Today:
+New Concepts:
+HTML document structure
+Key HTML tags
+Importance of clean code (utilising indentation, divs, classes, etc)
+CSS selectors and basic styling
+Use of IDs (#) vs classes (.)
+
+Breakthrough Moments:
+Understand the technical difference between a tag and an element (had thought they were interchangeable)
+Understand why some HTML tags are "void elements" (due to being self-containing)
+In my previous, brief experience, I had copied CSS styling files; now understand how CSS links to HTML
+
+Still Confused About:
+Need more practice with Flexbox, and to visualise how each attribute effects layout
+
+What I Built Today:
+Files Created:
+about-me.html - Basic personal webpage
+style.css - Styling for webpage
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+Lost time in the morning due to needing to collect new laptop.
+Navigated situation by reshuffling routine to move gym till later, once day's tasks were completed.
+Not 100% sure on how SEO uses elements (title, main, section, etc). Could research further.
+Flexbox. Was dfficult to take in the content in the guide (https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-prefixing-flexbox).
+Examples helped somewhat, but video showing step-by-step would be ideal. Will search to find a video.
+
+Tomorrow's Goals:
+Main Focus: JavaScript Intro
+Specific Tasks:
+ Refresh JavaScript basics (data types, variables, functions, etc)
+ Link back to HTML
+ Create mathematical functions
+ Upload files to GitHub
