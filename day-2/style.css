@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2, h4, p {
+    text-align: center;
+}
+
+figcaption {
+    color: gray;
+    line-height: 1.5;
+    text-align: center
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    margin-bottom: 40px; /* Spacing between sections */
+    /* Removed: display: flex; */
+    /* Removed: flex-flow, justify-content, etc. */
+    /* Flexbox not required for text-based content */
+}
