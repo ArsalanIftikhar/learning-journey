@@ -12,7 +12,8 @@ The learning log reflects on each day's learning, breakthroughs, and difficultie
 |--------|-------------|
 | `day-1` | Basic HTML structure and page layout |
 | `day-2` | Added styling and JavaScript interactivity (color-changing background, DOM manipulation) |
-| `day-3` | *[To be updated]* |
+| `day-3` | Added arrays, objects, and multiple interactive elements |
+| `day-4` | *[To be updated]* |
 
 ---
 
