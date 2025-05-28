@@ -39,7 +39,7 @@ Specific Tasks:
  Create mathematical functions
  Upload files to GitHub
 
----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 
 Daily Learning Log - Day 2
 Date: 27/05/25
@@ -79,4 +79,42 @@ Specific Tasks:
  More JavaScript practice (arrays, objects, loops etc)
  Adding more interactive elements to about-me HTML page, tying in above concepts
  Adding comments to explain logic and functionality
+ Uploading files to github and updating learning log
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Daily Learning Log - Day 3
+Date: 28/05/25
+What I Learned Today:
+New Concepts:
+JavaScript objects and arrays (https://javascript.info/array)
+Loops and Array Methods (for, for...of, forEach loops)
+Randomising using Math.Random alongside Math.Floor and arr length
+
+Breakthrough Moments:
+Script not being below DOM elements meant they didn't work, fixed mistake in HTML but also learnt about DOMContentLoaded JavaScript code and pros vs cons of each
+Loop in practice wasn't working because I referenced a parameter for the entire array instead of a single item
+
+Still Confused About:
+Need more variety in practice with loops as it can be applied in many scenarios
+
+What I Built Today:
+Files Created:
+about-me.html - updated to add interactive elements
+script.js - functionality for interactive elements
+style.css - updated for new buttons and sections
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+wasn't sure why buttons weren't working as intended. Had to take a quick break and look at code again with a fresh perspective to realise mistake. Also benefitted from learning about alternative fix.
+
+Tomorrow's Goals:
+Main Focus: Forms
+Specific Tasks:
+ Add forms to webpage (address validation and error handling)
+ Understand local storage
+ Reviewing code
  Uploading files to github and updating learning log
