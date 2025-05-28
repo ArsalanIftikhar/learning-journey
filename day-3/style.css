@@ -1,0 +1,60 @@
+/* Style entire body of page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Center-align all key text elements for consistency */
+h1, h2, h4, p {
+    text-align: center;
+}
+
+/* Style for image caption */
+figcaption {
+    color: gray;
+    line-height: 1.5;
+    text-align: center
+}
+
+/* General layout container for grouped content blocks */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    margin-bottom: 40px; /* Spacing between sections */
+    /* Removed: display: flex; */
+    /* Removed: flex-flow, justify-content, etc. */
+    /* Note: Flexbox was removed because it was unnecessary for vertically stacked, centered text content */
+}
+
+/* Styling for the interactive section */
+.interactive-section {
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+/* Default button styling */
+button {
+    margin: 10px;
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Changes button color on hover */
+button:hover {
+    background-color: #45a049;
+}
+
+/* Shared style for hobbies and info boxes */
+#hobbies-list, #info-display {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
