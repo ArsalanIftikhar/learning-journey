@@ -1,0 +1,59 @@
+<!-- HTML boilerplate -->
+<html>
+    <head>
+        <!-- Character encoding for proper text rendering -->
+        <meta charset="UTF-8">
+        <!-- Title shown in browser tab -->
+        <title>Test Page</title>
+        <!-- Linking the external CSS file to style page -->
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!--<button id="changeColor">Change Colour</button>-->
+        <!--<button id="resetColor">Reset Colour</button>-->
+        <!--<script src="script.js"></script>-->
+        <!-- SECTION: About Me (static content) -->
+        <div class="container" id="about-me">
+            <h1>About Me</h1>
+            <p>Hello! My name is Arsalan Iftikhar, and I am an aspiring web developer with a passion for creating interactive and user-friendly websites. I am learning to work with HTML, CSS, and JavaScript, and I love learning new technologies.</p>
+            <p>In my free time, I enjoy wrestling, hiking, football, and travelling. Feel free to connect with me on social media!</p>
+        </div>
+        <!-- SECTION: Education history (static content) -->
+        <div class="container" id="Education">
+            <h2>Education</h2>
+            <!-- Milestones -->
+            <h4>PGCE Maths (Leeds Trinity University; 2024-25)</h4>
+            <h4>BEng Chemical Engineering (University of Leeds; 2019-21)</h4>
+            <h4>A-Levels (Dixons McMillan Academy; 2017-19)</h4>
+            <h4>GCSEs (Laisterdyke Leadership Academy; 2017)</h4>
+            <p></p>
+            <!-- Image + caption -->
+            <figure>
+                <img src="https://th.bing.com/th/id/OIP.E-5nGM-sY5ivrHUmOCU-AwAAAA?w=186&h=166&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Arsalan Iftikhar" style="width: 150px; border-radius: 75px; display: block; margin: 0 auto;">
+                <figcaption> Collecting my (left of image) GCSE results in 2017</figcaption>
+            </figure>
+        </div>
+        <!-- SECTION: Future goals (static content) -->
+        <div class="container" id="Goals">
+            <h2>Goals</h2>
+            <p>My goal is to become a proficient web developer, capable of building dynamic and responsive websites. I aim to contribute to open-source projects and eventually work on large-scale applications.</p>
+        </div>
+        <!-- SECTION: Interactive buttons + dynamic elements -->
+        <div class="container" id="interactive-section">
+            <h2>Interactive Elements</h2>
+            <!-- JS-linked buttons -->
+            <button id="changeColour">Change Background</button>
+            <button id="resetColor">Reset Colour</button>
+            <button id="addHobby">Add Random Hobby</button>
+            <button id="showInfo">Show My Info</button>
+            
+            <!-- JS will update the hobby list inside this -->
+            <div id="hobbies-list">
+                <h3>My Hobbies:</h3>
+                <ul id="hobby-ul"></ul>
+            </div>
+            <!-- JS will fill this div with personal info -->
+            <div id="info-display"></div>
+        </div>
+        <!-- Linking to external JavaScript at the end to ensure DOM is loaded; was causing buttons to not work when I didn't move this down -->
+        <script src="script.js"></script>
