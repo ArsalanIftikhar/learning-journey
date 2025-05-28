@@ -1,0 +1,82 @@
+Daily Learning Log - Day 1
+Date: 26/05/25
+What I Learned Today:
+New Concepts:
+HTML document structure
+Key HTML tags
+Importance of clean code (utilising indentation, divs, classes, etc)
+CSS selectors and basic styling
+Use of IDs (#) vs classes (.)
+
+Breakthrough Moments:
+Understand the technical difference between a tag and an element (had thought they were interchangeable)
+Understand why some HTML tags are "void elements" (due to being self-containing)
+In my previous, brief experience, I had copied CSS styling files; now understand how CSS links to HTML
+
+Still Confused About:
+Need more practice with Flexbox, and to visualise how each attribute effects layout
+
+What I Built Today:
+Files Created:
+about-me.html - Basic personal webpage
+style.css - Styling for webpage
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+Lost time in the morning due to needing to collect new laptop.
+Navigated situation by reshuffling routine to move gym till later, once day's tasks were completed.
+Not 100% sure on how SEO uses elements (title, main, section, etc). Could research further.
+Flexbox. Was dfficult to take in the content in the guide (https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-prefixing-flexbox).
+Examples helped somewhat, but video showing step-by-step would be ideal. Will search to find a video.
+
+Tomorrow's Goals:
+Main Focus: JavaScript Intro
+Specific Tasks:
+ Refresh JavaScript basics (data types, variables, functions, etc)
+ Link back to HTML
+ Create mathematical functions
+ Upload files to GitHub
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Daily Learning Log - Day 2
+Date: 27/05/25
+What I Learned Today:
+New Concepts:
+JavaScript data types, variables, functions, if statements, etc (via book - https://javascript.info/ - and freecodecamp)
+In-browser vs server-side environnents (e.g. Node.js)
+Using Live Server to open HTML files (better than a preview in VS)
+Alerts, buttons, DOM manipulation
+Clonining repos and pushing commits to github directly from VS Code
+
+Breakthrough Moments:
+Practice with JS in Chrome dev tools
+Clarified distinction between console.log and return
+Retroactively understand why people would recommend both (for example) VS Code AND Sublime Text due to distinction between IDEs and "lightweight" editors
+HMTL, CSS, and JavaScript separate but intertwined
+Was uneccesarily using Flexbox for text-based content
+
+Still Confused About:
+Need more practice with Flexbox, and to visualise how each attribute effects layout
+
+What I Built Today:
+Files Created:
+style.css - Updated for
+script.js - Interactive button functionality
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+Layout errors weren't visible in the preview, so only recognised them in the Live Server, and had to trouble shoot.
+Wasn't sure how to add folders in github. Went down rabbit hole and figured out how to commit directly from VS Code (which also allowed to create folder)
+
+Tomorrow's Goals:
+Main Focus: JavaScript cont.
+Specific Tasks:
+ More JavaScript practice (arrays, objects, loops etc)
+ Adding more interactive elements to about-me HTML page, tying in above concepts
+ Adding comments to explain logic and functionality
+ Uploading files to github and updating learning log
