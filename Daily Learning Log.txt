@@ -118,3 +118,44 @@ Specific Tasks:
  Understand local storage
  Reviewing code
  Uploading files to github and updating learning log
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Daily Learning Log - Day 4
+Date: 29/05/25
+What I Learned Today:
+New Concepts:
+Forms (https://javascript.info/forms-controls)
+input.Value, input.textContent and inpute.innerHTML
+.onfocus and .onblur
+
+Breakthrough Moments:
+more practice with getElementById and addEventListener
+tabindex needed for onfocus to work with some elements (e.g. divs)
+
+Still Confused About:
+n/a
+
+What I Built Today:
+Files Created:
+about-me.html - updated to add form input and submission button
+script.js - functionality for form (preventing refresh, checking for blanks and dupes, error/success message)
+style.css - updated for new buttons messages
+Tasks.txt - Tasks carried out after learning
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+Difficulty with forms task after reading.
+Took a long time to think through but figured it out eventually.
+Worked, but was different to given solution
+Didn't complete all of today's tasks
+
+Tomorrow's Goals:
+Main Focus: Forms
+Specific Tasks:
+ Add another form to webpage (as data validation wasn't addressed today)
+ Understand local storage (not addressed today)
+ Uploading files to github and updating learning log
+
