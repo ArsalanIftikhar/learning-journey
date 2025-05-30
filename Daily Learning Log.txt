@@ -159,3 +159,115 @@ Specific Tasks:
  Understand local storage (not addressed today)
  Uploading files to github and updating learning log
 
+---------------------------------------------------------------------------------------------------------------------------
+
+Daily Learning Log - Day 4
+Date: 29/05/25
+What I Learned Today:
+New Concepts:
+Forms (https://javascript.info/forms-controls)
+input.Value, input.textContent and inpute.innerHTML
+.onfocus and .onblur
+
+Breakthrough Moments:
+more practice with getElementById and addEventListener
+tabindex needed for onfocus to work with some elements (e.g. divs)
+
+Still Confused About:
+n/a
+
+What I Built Today:
+Files Created:
+about-me.html - updated to add form input and submission button
+script.js - functionality for form (preventing refresh, checking for blanks and dupes, error/success message)
+style.css - updated for new buttons messages
+Tasks.txt - Tasks carried out after learning
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+Difficulty with forms task after reading.
+Took a long time to think through but figured it out eventually.
+Worked, but was different to given solution
+Didn't complete all of today's tasks
+
+Tomorrow's Goals:
+Main Focus: Forms
+Specific Tasks:
+ Add another form to webpage (as data validation wasn't addressed today)
+ Understand local storage (not addressed today)
+ Uploading files to github and updating learning log
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Daily Learning Log - Day 4
+Date: 29/05/25
+What I Learned Today:
+New Concepts:
+Forms (https://javascript.info/forms-controls)
+input.Value, input.textContent and inpute.innerHTML
+.onfocus and .onblur
+
+Breakthrough Moments:
+more practice with getElementById and addEventListener
+tabindex needed for onfocus to work with some elements (e.g. divs)
+
+Still Confused About:
+n/a
+
+What I Built Today:
+Files Created:
+about-me.html - updated to add form input and submission button
+script.js - functionality for form (preventing refresh, checking for blanks and dupes, error/success message)
+style.css - updated for new buttons messages
+Tasks.txt - Tasks carried out after learning
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+
+Difficulty with forms task after reading.
+Took a long time to think through but figured it out eventually.
+Worked, but was different to given solution
+Didn't complete all of today's tasks
+
+Tomorrow's Goals:
+Main Focus: Forms
+Specific Tasks:
+ Add another form to webpage (as data validation wasn't addressed today)
+ Understand local storage (not addressed today)
+ Uploading files to github and updating learning log
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Daily Learning Log - Day 5
+Date: 30/05/25
+What I Learned Today:
+New Concepts:
+localStorage (https://javascript.info/localstorage)
+using JSON to store objects (otherwise key and value can be strings only)
+
+Breakthrough Moments:
+.setItem after push/append
+.getItem at the start
+
+Still Confused About:
+possible use cases of localStorage, apart from autosaving responses in a form
+
+What I Built Today:
+Files Created:
+about-me.html - updated to add another form with inputs and submission button
+script.js - functionality for form (preventing refresh, data validation, error/success message), and saving info to localStorage
+
+Link to Code: [GitHub repository link]
+
+Challenges Faced:
+n/a
+
+Tomorrow's Goals:
+Main Focus: Multiplication timer game for my Yr7 Maths class
+Specific Tasks:
+ Break game down to core components (time, question, input field, score, etc)
+ Understand how timers work in JavaScript
+ Styling to make it look appealing
